@@ -1,0 +1,1 @@
+GET http://localhost:8080/{{cookiecutter.projectName}}/{{cookiecutter.projectVersion}}/hello?name=John
